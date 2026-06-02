@@ -5,10 +5,6 @@ A web application for clinical documentation and patient data extraction.
 ## Overview
 This project provides a Streamlit interface for uploading medical PDFs, extracting relevant clinical information, and presenting it in a structured format.
 
-## Screenshot
-![Screenshot](screenshot.png)
-
-*Replace `screenshot.png` with an actual image of the application.*
 
 ## Setup
 ```bash
